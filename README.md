@@ -1,2 +1,2 @@
 # KeyStrings
-Uses MIDI numbers to transcribe bass and piano notes, vice versa.
+Uses MIDI numbers to transcribe bass and piano notes.
